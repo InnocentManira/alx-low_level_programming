@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-/*
- * main - Entry point
+/**
+ * main - function to print bases
  * Return: Always 0 (Success)
  */
 
