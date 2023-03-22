@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * main - print_putchar
+ *main - main function
+ * _putchar:  print the alphapbets putchar
  * is written by innocent
  * Return : 0
  */
